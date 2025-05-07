@@ -93,12 +93,6 @@
 
 ---
 
-### 🎨 **Banner de Bienvenida:**
-
-<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/image.png" alt="Automation Testing Banner" width="100%"/>
-
----
-
 ### 💌 **¿Interesado en colaborar?**  
 - 📧 [ricardo.torrado@gmail.com](mailto:ricardo.torrado@gmail.com)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ricardo-torrado-gomez/)
