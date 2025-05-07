@@ -3,6 +3,8 @@
 # 🌟 QA Automation, Performance & Manual Testing Specialist 🌟  
 
 👋 ¡Hola! Soy Ricardo Torrado, un QA Automation Engineer con más de **6 años de experiencia** asegurando la calidad de software a través de flujos de pruebas automatizados, robustos y eficientes. 🛠️✨
+Apasionado por asegurar la calidad de software a través de la automatización inteligente y metodologías ágiles. Cuento con sólida experiencia en el diseño e implementación de pruebas E2E, tanto funcionales como de performance, en proyectos de alto impacto.
+🚀 Siempre en evolución, comprometido con la excelencia y en constante aprendizaje para adaptarme a los desafíos del mundo del testing.
 
 ---
 
