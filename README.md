@@ -71,7 +71,7 @@
 
 
 ### 🎨 **Un poco más sobre mí:**  
-Apasionado por asegurar la calidad de software a través de la automatización inteligente y metodologías ágiles. Cuento con sólida experiencia en el diseño e implementación de pruebas E2E, tanto funcionales como de performance, en proyectos de alto impacto.
-🚀 Siempre en evolución, comprometido con la excelencia y en constante aprendizaje para adaptarme a los desafíos del mundo del testing.
+**Apasionado por asegurar la calidad de software a través de la automatización inteligente y metodologías ágiles. Cuento con sólida experiencia en el diseño e implementación de pruebas E2E, tanto funcionales como de performance, en proyectos **de alto impacto.
+**🚀 Siempre en evolución, comprometido con la excelencia y en constante aprendizaje para adaptarme a los desafíos del mundo del testing.
 ---
 
