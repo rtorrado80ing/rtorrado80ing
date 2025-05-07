@@ -6,11 +6,12 @@
 
 ### 🚀 **Mi Caja de Herramientas:**
 
-  ⚙️ **Automatización**                                                        
-|----------------------|--------------------------|-----------------------------|
-| UFT                  | Selenium - Java          | Playwright                  |
-| Katalon Studio       | Appium                   | Robot-framework             |
-| Cypress              | Eggplant Functional      |                             |
+| ⚙️ **Automatización** | 🤖 **Frameworks gratis** | 🛠️ **Frameworks pagos** |
+|--------------------------|-----------------------------|----------------------------|
+| Cypress                   | Selenium - Java        | UFT               |
+| Appium                  | Playwright                 |   Eggplant Functional                         |
+| Katalon Studio              | Robot-framework                             |                            |
+
 
 | 🌐 **Metodologías BDD** | 🛢️ **Bases de Datos** | 🔥 **API Testing** |🛠️ **Patrones de Diseño** | 📦 **Gestores de Proyectos** |
 |------------------------|----------------------|--------------------|--------------------|--------------------|
@@ -74,4 +75,3 @@ Apasionado por asegurar la calidad de software a través de la automatización i
 🚀 Siempre en evolución, comprometido con la excelencia y en constante aprendizaje para adaptarme a los desafíos del mundo del testing.
 ---
 
-¿Quieres ajustar algún tono, agregar algún proyecto específico o un toque extra de creatividad? 🚀😊👍
