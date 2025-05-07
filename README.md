@@ -66,7 +66,7 @@
 ### 💌 **¿Listo para una charla técnica o un café virtual?**  
 - 📧 Email: ricardo.torrado@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/ricardo-torrado-gomez/
-- [YouTube: https://youtube.com/@automationperformancetester?si=AxsmRgZ2J6FQcw8E](https://www.youtube.com/@AutomationPerformanceTester)
+- 📺 [YouTube](https://www.youtube.com/@AutomationPerformanceTester)
 
 ---
 
