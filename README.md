@@ -1,4 +1,4 @@
-# 🌟 Ricardo Torrado - The Alchemist of Automation 🌟
+# 🌟 Ricardo Torrado  🌟
 
 👋 ¡Hola! Soy Ricardo Torrado, un apasionado QA Automation Engineer con más de **6 años de experiencia** en la creación de flujos de pruebas que aseguran la calidad y la magia del software. 🧪✨
 
@@ -6,18 +6,15 @@
 
 ### 🚀 **Mi Caja de Herramientas:**
 
-| ⚙️ **Automatización** | 🛠️ **Patrones de Diseño** | 📦 **Gestores de Proyectos** |
+| ⚙️ **Automatización**                                                        | 
 |----------------------|--------------------------|-----------------------------|
-| UFT                  | POM, Screenplay          | Maven, Gradle               |
-| Katalon Studio       |                          |                             |
-| Cypress              |                          |                             |
-| Selenium - Java      |                          |                             |
-| Appium               |                          |                             |
-| Eggplant Functional  |                          |                             |
+| UFT                  | Selenium - Java          | Playwright                  |
+| Katalon Studio       | Appium                   | Robot-framework             |
+| Cypress              | Eggplant Functional      |                             |
 
-| 🌐 **Metodologías BDD** | 🛢️ **Bases de Datos** | 🔥 **API Testing** |
-|------------------------|----------------------|--------------------|
-| Cucumber, Gherkin      | SQL Server, Oracle   | Rest Assured, Karate, Postman |
+| 🌐 **Metodologías BDD** | 🛢️ **Bases de Datos** | 🔥 **API Testing** |🛠️ **Patrones de Diseño** | 📦 **Gestores de Proyectos** |
+|------------------------|----------------------|--------------------|--------------------|--------------------|
+| Cucumber, Gherkin      | SQL Server, Oracle   | Rest Assured, Karate, Postman |POM, Screenplay          |Maven, Gradle               |
 | Serenity BDD           |                      | Playwright          |
 
 | 🎯 **Performance Testing** | 🤖 **Integración Continua** | 🛠️ **Control de Versiones** |
@@ -66,21 +63,15 @@
 ---
 
 ### 💌 **¿Listo para una charla técnica o un café virtual?**  
-- 📧 Email: [Tu Email]  
-- 🔗 LinkedIn: [Tu LinkedIn]  
-- 🌐 Portafolio: [Tu Sitio Web o Blog]
+- 📧 Email: [ricardo.torrado@gmail.com]  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/ricardo-torrado-gomez/]  
 
 ---
 
-### ⚡ **Stats y Repositorios Destacados:**
-
-![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtorrado80ing&show_icons=true&theme=tokyonight)
-
----
 
 ### 🎨 **Un poco más sobre mí:**  
-Soy un alquimista del testing. Transformo líneas de código en productos sólidos, asegurando que cada funcionalidad brille como debe. ¿Quieres descubrir cómo? Echa un vistazo a mis repositorios.
-
+Apasionado por asegurar la calidad de software a través de la automatización inteligente y metodologías ágiles. Cuento con sólida experiencia en el diseño e implementación de pruebas E2E, tanto funcionales como de performance, en proyectos de alto impacto.
+🚀 Siempre en evolución, comprometido con la excelencia y en constante aprendizaje para adaptarme a los desafíos del mundo del testing.
 ---
 
 ¿Quieres ajustar algún tono, agregar algún proyecto específico o un toque extra de creatividad? 🚀😊👍
