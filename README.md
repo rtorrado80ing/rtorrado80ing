@@ -1,3 +1,4 @@
+<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/image.png" alt="Automation Testing Banner" width="100%"/>
 # 🌟 Ricardo Torrado - QA Automation, Performance & Manual Testing Specialist 🌟  
 
 👋 ¡Hola! Soy Ricardo Torrado, un QA Automation Engineer con más de **6 años de experiencia** asegurando la calidad de software a través de flujos de pruebas automatizados, robustos y eficientes. 🛠️✨
