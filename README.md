@@ -1,6 +1,6 @@
 # 🌟 Ricardo Torrado  🌟
 
-![Automation Testing](https://github.com/tu_usuario/tu_repositorio/blob/main/assets/image.png)
+![Automation Testing](https://github.com/rtorrado80ing/rtorrado80ing/blob/main/image.png)
 
 👋 ¡Hola! Soy Ricardo Torrado, un apasionado QA Automation Engineer con más de **6 años de experiencia** en la creación de flujos de pruebas que aseguran la calidad y la magia del software. 🧪✨
 
