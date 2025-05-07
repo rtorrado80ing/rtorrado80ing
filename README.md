@@ -10,7 +10,7 @@
 📍 **Ubicación:** Bogotá, Colombia 🇨🇴  
 📧 **Contacto:** [ricardo.torrado@gmail.com](mailto:ricardo.torrado@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/ricardo-torrado-gomez](https://www.linkedin.com/in/ricardo-torrado-gomez/)  
-📺 [YouTube](https://www.youtube.com/@AutomationPerformanceTester)
+📺 **[YouTube](https://www.youtube.com/@AutomationPerformanceTester)
 
 ---
 
