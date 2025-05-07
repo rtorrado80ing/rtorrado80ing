@@ -64,8 +64,8 @@
 ---
 
 ### 💌 **¿Listo para una charla técnica o un café virtual?**  
-- 📧 Email: [ricardo.torrado@gmail.com]  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/ricardo-torrado-gomez/]  
+- 📧 Email: ricardo.torrado@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ricardo-torrado-gomez/  
 
 ---
 
