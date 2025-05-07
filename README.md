@@ -22,7 +22,7 @@
 |--------------------------|-----------------------------|----------------------------|
 | JMeter                   | Azure DevOps, Jenkins       | Git, GitLab               |
 | Neoload                  | Eggplant DAI                |                            |
-| Load Runner              |                             |                            |
+| Load Runner              | Git Actions                            |                            |
 | SoapUI                   |                             |                            |
 
 ---
