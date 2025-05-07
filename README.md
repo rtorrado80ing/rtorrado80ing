@@ -33,6 +33,8 @@ Apasionado por asegurar la calidad de software a través de la automatización i
 | **Playwright**         | Web Testing             |
 | **Robot Framework**    | E2E Testing             |
 
+<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/screenplay_build.gif" alt="Automation Testing Banner" width="100%"/>
+
 ---
 
 ### 🌐 **Metodologías BDD:**
