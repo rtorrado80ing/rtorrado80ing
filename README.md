@@ -6,7 +6,7 @@
 
 ### 🚀 **Mi Caja de Herramientas:**
 
-| ⚙️ **Automatización**                                                        | 
+  ⚙️ **Automatización**                                                        
 |----------------------|--------------------------|-----------------------------|
 | UFT                  | Selenium - Java          | Playwright                  |
 | Katalon Studio       | Appium                   | Robot-framework             |
