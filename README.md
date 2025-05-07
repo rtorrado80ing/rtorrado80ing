@@ -1,82 +1,115 @@
-# 🌟 Ricardo Torrado QA Automation, Performance & Manual Testing Specialist 🌟
+# 🌟 Ricardo Torrado - The Automation Alchemist 🌟  
 
-  ![Automation Testing](https://github.com/rtorrado80ing/rtorrado80ing/blob/main/image.png)
-
-👋 ¡Hola! Soy Ricardo Torrado, un apasionado QA Automation Engineer con más de **6 años de experiencia** en la creación de flujos de pruebas que aseguran la calidad y la magia del software. 🧪✨
+👋 ¡Hola! Soy Ricardo Torrado, un QA Automation Engineer con más de **6 años de experiencia** asegurando la calidad de software a través de flujos de pruebas automatizados, robustos y eficientes. 🛠️✨
 
 ---
 
-### 🚀 **Mi Caja de Herramientas:**
+## 🚀 Sobre Mí
 
-| ⚙️ **Automatización** | 🤖 **Frameworks gratis** | 🛠️ **Frameworks pagos** |
-|--------------------------|-----------------------------|----------------------------|
-| Cypress                   | Selenium - Java        | UFT               |
-| Appium                  | Playwright                 |   Eggplant Functional                         |
-| Katalon Studio              | Robot-framework                             |                            |
-
-
-| 🌐 **Metodologías BDD** | 🛢️ **Bases de Datos** | 🔥 **API Testing** |🛠️ **Patrones de Diseño** | 📦 **Gestores de Proyectos** |
-|------------------------|----------------------|--------------------|--------------------|--------------------|
-| Cucumber, Gherkin      | SQL Server, Oracle   | Rest Assured, Karate, Postman |POM, Screenplay          |Maven, Gradle               |
-| Serenity BDD           |                      | Playwright          |
-
-| 🎯 **Performance Testing** | 🤖 **Integración Continua** | 🛠️ **Control de Versiones** |
-|--------------------------|-----------------------------|----------------------------|
-| JMeter                   | Azure DevOps, Jenkins       | Git, GitLab               |
-| Neoload                  | Eggplant DAI                |                            |
-| Load Runner              | Git Actions                            |                            |
-| SoapUI                   |                             |                            |
+🧪 **Ingeniero en Automatización de Pruebas Funcionales y de Performance.**  
+📍 **Ubicación:** Bogotá, Colombia 🇨🇴  
+📧 **Contacto:** [ricardo.torrado@gmail.com](mailto:ricardo.torrado@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/ricardo-torrado-gomez](https://www.linkedin.com/in/ricardo-torrado-gomez/)  
 
 ---
 
-### 💡 **Habilidades Suaves que Endurecen mi Perfil:**
+## 🛠️ Tech Stack
 
-- 🌟 **Pensamiento Crítico:** Siempre un paso adelante para anticipar errores.  
-- 🎯 **Atención al Detalle:** Si hay un bug oculto, lo encontraré.  
-- 🚀 **Proactividad:** Mejorar procesos es mi segunda naturaleza.  
-- 🤝 **Trabajo en Equipo:** Un código sólido nace del trabajo colaborativo.  
-- ⏳ **Gestión del Tiempo:** Cada sprint cuenta, cada segundo suma.
+### 🛠️ **Automatización:**
 
----
-
-### 🎓 **Cursos y Certificaciones:**
-
-- 🎯 Azure DevOps - El poder de la integración continua.  
-- 🐍 Selenium 4 in Java - Los secretos del WebDriver.  
-- 🎬 Automation con Serenity - La coreografía de pruebas perfecta.  
-- 🧠 ISTQB Foundation Level - El arte de pensar en pruebas.  
-- 🏢 HP Quality Center - La base sólida del testing.  
-- 🧪 Quick Test Professional - Un clásico siempre vigente.
+| Herramienta            | Uso                     |
+|------------------------|-------------------------|
+| **UFT**                | Automatización funcional |
+| **Selenium - Java**    | Web Testing             |
+| **Katalon Studio**     | Pruebas Funcionales     |
+| **Cypress**            | Web Testing             |
+| **Appium**             | Mobile Testing          |
+| **Eggplant Functional**| UI Testing              |
+| **Playwright**         | Web Testing             |
+| **Robot Framework**    | E2E Testing             |
 
 ---
 
-### 🌐 **Idiomas:**
+### 🌐 **Metodologías BDD:**
 
-- **Español** – Nativo 🇨🇴  
-- **Inglés** – Básico 🌐
+| Herramienta            | Uso                     |
+|------------------------|-------------------------|
+| **Cucumber / Gherkin** | Definición de escenarios |
+| **Serenity BDD**       | Reportes y Screenplay   |
+
+---
+
+### 📦 **API Testing:**
+
+| Herramienta            | Uso                     |
+|------------------------|-------------------------|
+| **Rest Assured**       | Validación de APIs      |
+| **Karate**             | Pruebas de servicios    |
+| **Postman**            | Validación de endpoints |
+| **Playwright**         | Validación UI/API       |
+
+---
+
+### 🎯 **Performance Testing:**
+
+| Herramienta            | Uso                     |
+|------------------------|-------------------------|
+| **JMeter**             | Cargas y Stress Testing |
+| **Neoload**            | Testing Avanzado        |
+| **Load Runner**        | Cargas Pesadas          |
+| **SoapUI**             | Testing de Servicios    |
+
+---
+
+### 🤖 **Integración Continua:**
+
+| Herramienta            | Uso                     |
+|------------------------|-------------------------|
+| **Azure DevOps**       | CI/CD                   |
+| **Jenkins**            | Automatización          |
+| **Eggplant DAI**       | Testing UI/Performance |
+
+---
+
+### 📚 **Certificaciones y Cursos:**
+
+- 🎯 Azure DevOps  
+- 🐍 Selenium 4 in Java  
+- 🎬 Automation con Serenity BDD  
+- 🧠 ISTQB Foundation Level  
+- 🏢 HP Quality Center  
+- 🧪 Quick Test Professional  
 
 ---
 
 ### 🌱 **Últimos Proyectos:**
 
-- 🧪 **E2E Testing Framework:** Creación de un framework con Serenity BDD + Screenplay para pruebas funcionales.  
-- 🔍 **API Testing Suite:** Estrategia integral para pruebas de API con Rest Assured y Karate.  
-- 🚀 **Load Testing Strategy:** Implementación de cargas masivas con JMeter y Neoload.
+- 🧪 **E2E Testing Framework:** Creación de un framework con Serenity BDD + Screenplay.  
+- 🔍 **API Testing Suite:** Pruebas de servicios REST y SOAP con Karate.  
+- 🚀 **Load Testing Strategy:** Estrategia de pruebas de carga con JMeter y Neoload.  
 
 ---
 
-### 💌 **¿Listo para una charla técnica o un café virtual?**  
-- 📧 Email: ricardo.torrado@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ricardo-torrado-gomez/)
-- 📺 [YouTube](https://www.youtube.com/@AutomationPerformanceTester)
+### 🎨 **Banner de Bienvenida:**
+
+<img src="https://github.com/rtorrado80ing/tu-repositorio/blob/main/assets/automation_testing.png" alt="Automation Testing Banner" width="100%"/>
 
 ---
 
+### 💌 **¿Interesado en colaborar?**  
+- 📧 [ricardo.torrado@gmail.com](mailto:ricardo.torrado@gmail.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ricardo-torrado-gomez/)
 
-### 🎨 **Un poco más sobre mí:**  
+---
 
-Apasionado por asegurar la calidad de software a través de la automatización inteligente y metodologías ágiles. Cuento con sólida experiencia en el diseño e implementación de pruebas E2E, tanto funcionales como de performance, en proyectos de alto impacto.
-🚀 Siempre en evolución, comprometido con la excelencia y en constante aprendizaje para adaptarme a los desafíos del mundo del testing.
+### 📊 **GitHub Stats:**
+
+![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtorrado80ing&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rtorrado80ing&layout=compact&theme=tokyonight)
+
+---
+
+### 🚀 **Let's Connect and Build Something Amazing!**
 
 ---
 
