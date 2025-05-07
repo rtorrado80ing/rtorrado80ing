@@ -1,4 +1,4 @@
-# 🌟 Ricardo Torrado - The Automation Alchemist 🌟  
+# 🌟 Ricardo Torrado - QA Automation, Performance & Manual Testing Specialist 🌟  
 
 👋 ¡Hola! Soy Ricardo Torrado, un QA Automation Engineer con más de **6 años de experiencia** asegurando la calidad de software a través de flujos de pruebas automatizados, robustos y eficientes. 🛠️✨
 
@@ -10,6 +10,7 @@
 📍 **Ubicación:** Bogotá, Colombia 🇨🇴  
 📧 **Contacto:** [ricardo.torrado@gmail.com](mailto:ricardo.torrado@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/ricardo-torrado-gomez](https://www.linkedin.com/in/ricardo-torrado-gomez/)  
+📺 [YouTube](https://www.youtube.com/@AutomationPerformanceTester)
 
 ---
 
@@ -92,7 +93,7 @@
 
 ### 🎨 **Banner de Bienvenida:**
 
-<img src="https://github.com/rtorrado80ing/tu-repositorio/blob/main/assets/automation_testing.png" alt="Automation Testing Banner" width="100%"/>
+<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/image.png" alt="Automation Testing Banner" width="100%"/>
 
 ---
 
