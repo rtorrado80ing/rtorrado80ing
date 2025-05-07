@@ -55,5 +55,3 @@
 
 ---
 
-### 📊 Estadísticas de GitHub:
-![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtorrado80ing&show_icons=true&theme=radical)
