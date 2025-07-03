@@ -1,4 +1,4 @@
-<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/image.jpeg" alt="Automation Testing Banner" width="100%"/>
+<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/image1.jpeg" alt="Automation Testing Banner" width="100%"/>
 
 # 🌟 QA Automation, Performance & Manual Testing Specialist 🌟  
 
