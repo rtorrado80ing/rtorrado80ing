@@ -95,7 +95,7 @@ Mi experiencia combina **automatización funcional, BDD, API Testing, Performanc
 
 <div align="center">
 
-<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/ricardo-qa-cicd-pipeline.gif" alt="CI/CD Pipeline for QA Automation by Ricardo Torrado" width="100%"/>
+<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/ricardo-cicd-pipeline.gif" alt="CI/CD Pipeline for QA Automation by Ricardo Torrado" width="100%"/>
 
 </div>
 
@@ -136,7 +136,7 @@ Quality Engineering
 
 <div align="center">
 
-<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/ricardo-git-workflow.gif" alt="Git Workflow for QA Automation by Ricardo Torrado" width="100%"/>
+<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/ricardo-git.gif" alt="Git Workflow for QA Automation by Ricardo Torrado" width="100%"/>
 
 </div>
 
