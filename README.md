@@ -121,7 +121,7 @@ Quality Engineering
 
 | Formación | Estado / Institución |
 |---|---|
-| 🎯 **ISTQB Certified Tester Foundation Level (CTFL)** | 📖 En preparación |
+| 🎯 **ISTQB Certified Tester Foundation Level (CTFL 4.0)** | 📖 En preparación |
 | ☁️ **Azure DevOps** | Microsoft / Formación especializada |
 | 🧪 **Selenium 4 with Java** | Udemy |
 | 🎬 **Automation with Serenity BDD** | Udemy |
