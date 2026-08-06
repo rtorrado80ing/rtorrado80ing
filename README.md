@@ -144,8 +144,14 @@ Quality Engineering
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rtorrado80ing&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Ricardo Torrado GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtorrado80ing&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rtorrado80ing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtorrado80ing&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rtorrado80ing&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
