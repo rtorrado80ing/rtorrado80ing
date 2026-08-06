@@ -1,162 +1,163 @@
 <div align="center">
 
-<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/banner.png" alt="Automation Testing Banner" width="100%"/>
+<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/banner.png" alt="QA Automation Engineering Banner" width="100%"/>
 
-# 👋 ¡Hola! Soy Ricardo Torrado
+# 👋 Hola, soy Ricardo Torrado
 
-### 🧪 QA Automation Engineer · Performance Tester · BDD Advocate
+### Senior QA Automation Engineer | Test Automation Architecture | API & Performance Testing
+
+📍 Bogotá, Colombia · 🌎 Open to Remote LATAM opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Torrado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-torrado-gomez/)
 [![YouTube](https://img.shields.io/badge/YouTube-Automation%20%26%20Performance-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AutomationPerformanceTester)
-[![Gmail](https://img.shields.io/badge/Email-ricardo.torrado%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardo.torrado@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Bogotá%2C%20Colombia-FFCD00?style=for-the-badge)](https://www.google.com/maps/place/Bogota)
+[![Email](https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardo.torrado@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rtorrado80ing&color=blueviolet&style=for-the-badge&label=VISITAS+AL+PERFIL)
+![Profile Views](https://komarev.com/ghpvc/?username=rtorrado80ing&color=0A66C2&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🚀 Sobre Mí
+## 👨‍💻 Sobre mí
 
-Soy un **QA Automation Engineer con más de 6 años de experiencia** asegurando la calidad de software a través de frameworks de prueba automatizados, robustos y eficientes. Apasionado por la automatización inteligente, las metodologías ágiles y el diseño de estrategias de testing de alto impacto.
+Soy **QA Automation Engineer con más de 12 años de experiencia en aseguramiento de calidad de software**, con foco en diseño de estrategias de testing, arquitectura de automatización y construcción de soluciones mantenibles para aplicaciones Web, APIs y pruebas de rendimiento.
 
-- 🔭 Actualmente trabajando en **frameworks E2E con Serenity BDD + Screenplay**
-- 🌱 Explorando **IA aplicada al QA** y testing con herramientas de última generación
-- 🎯 Especializado en **pruebas funcionales, de performance y API Testing**
-- 🤝 Abierto a colaborar en proyectos de **automatización y mejora continua de calidad**
-- ⚡ Fun fact: Creo que un buen test automatizado es una obra de arte 🎨
+Mi experiencia combina **automatización funcional, BDD, API Testing, Performance Testing y CI/CD**, trabajando con patrones y prácticas que buscan reducir riesgo, acelerar el feedback y dar confianza a los equipos durante los despliegues.
+
+- 🧪 Diseño y evolución de **frameworks de automatización E2E**
+- 🎭 Automatización moderna con **Playwright** y **Selenium**
+- 🥒 Experiencia con **Serenity BDD, Screenplay, Cucumber y Gherkin**
+- 🔌 Validación de servicios y APIs con **REST Assured, Karate y Postman**
+- ⚡ Pruebas de rendimiento y carga con **k6 y JMeter**
+- 🔄 Integración de pruebas en **Azure DevOps y pipelines CI/CD**
+- 🤖 Explorando **IA aplicada al testing, agentes y MCP** para mejorar productividad y análisis
+- 🎯 Enfoque en automatizar por **riesgo y valor de negocio**, no simplemente por cantidad de scripts
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Stack principal
 
-### ⚙️ Automatización Funcional
+### Test Automation
 
 <div align="center">
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Katalon](https://img.shields.io/badge/Katalon%20Studio-1DB954?style=for-the-badge&logo=katalon&logoColor=white)
-![UFT](https://img.shields.io/badge/UFT%20One-0096D6?style=for-the-badge&logo=microfocus&logoColor=white)
-![Eggplant](https://img.shields.io/badge/Eggplant-7D2E8B?style=for-the-badge&logoColor=white)
-
-</div>
-
-### 🌐 BDD & Frameworks
-
-<div align="center">
-
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Serenity BDD](https://img.shields.io/badge/Serenity%20BDD-4A90D9?style=for-the-badge)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![Serenity BDD](https://img.shields.io/badge/Serenity%20BDD-4A90D9?style=for-the-badge&logoColor=white)
-![Gherkin](https://img.shields.io/badge/Gherkin-00B4A0?style=for-the-badge&logoColor=white)
-![Screenplay](https://img.shields.io/badge/Screenplay%20Pattern-FF6B35?style=for-the-badge&logoColor=white)
 
 </div>
 
-### 📦 API Testing
+### API & Performance
 
 <div align="center">
 
-![Rest Assured](https://img.shields.io/badge/Rest%20Assured-6DB33F?style=for-the-badge&logoColor=white)
-![Karate](https://img.shields.io/badge/Karate%20DSL-C21325?style=for-the-badge&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge)
+![Karate](https://img.shields.io/badge/Karate%20DSL-C21325?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SoapUI](https://img.shields.io/badge/SoapUI-6CB33E?style=for-the-badge&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
 </div>
 
-### 🎯 Performance Testing
-
-<div align="center">
-
-![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![NeoLoad](https://img.shields.io/badge/NeoLoad-00A3E0?style=for-the-badge&logoColor=white)
-![LoadRunner](https://img.shields.io/badge/LoadRunner-0096D6?style=for-the-badge&logo=microfocus&logoColor=white)
-
-</div>
-
-### 🤖 CI/CD & DevOps
-
-<div align="center">
-
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-### 💻 Lenguajes & Herramientas
+### Languages, CI/CD & Tools
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
-## 🌱 Proyectos Destacados
+## 🚀 Lo que construyo
 
-| 🚀 Proyecto | 📋 Descripción | 🔧 Stack |
+| Área | Enfoque | Tecnologías |
 |---|---|---|
-| **E2E Testing Framework** | Framework completo con Serenity BDD + Screenplay Pattern para pruebas web | Serenity · Cucumber · Java · Gradle |
-| **API Testing Suite** | Suite de pruebas REST y SOAP con validación automática de contratos | Karate · Rest Assured · Postman |
-| **Load Testing Strategy** | Estrategia de pruebas de carga y stress con análisis de cuellos de botella | JMeter · NeoLoad · Azure DevOps |
+| 🎭 **E2E Automation** | Frameworks escalables, mantenibles y orientados a flujos críticos | Playwright · Selenium · Serenity BDD · Screenplay |
+| 🔌 **API Testing** | Validaciones funcionales, integración, contratos y regresión de servicios | REST Assured · Karate · Postman |
+| ⚡ **Performance Testing** | Escenarios de carga, métricas, thresholds y análisis de rendimiento | k6 · JMeter |
+| 🔄 **Continuous Testing** | Ejecución automatizada y trazabilidad dentro de CI/CD | Azure DevOps · Jenkins · Git |
+| 🤖 **AI for QA** | Experimentación con IA, agentes y MCP aplicada al ciclo de testing | LLMs · AI Agents · MCP |
 
 ---
 
-## 🏅 Certificaciones
+## 🔄 CI/CD Pipeline para QA Automation
 
 <div align="center">
 
-| Certificación | Institución |
+<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/ricardo-qa-cicd-pipeline.gif" alt="CI/CD Pipeline for QA Automation by Ricardo Torrado" width="100%"/>
+
+</div>
+
+> Continuous Testing: integrar las validaciones de calidad al pipeline para obtener feedback temprano, reducir riesgos y desplegar con mayor confianza.
+
+---
+
+## 🧠 Principios de ingeniería de calidad
+
+```text
+Quality Engineering
+├── Automatizar donde existe riesgo y valor de negocio
+├── Priorizar API e integración antes de depender del E2E
+├── Diseñar pruebas rápidas, deterministas y mantenibles
+├── Tratar los tests flaky como deuda técnica
+├── Integrar calidad al pipeline, no dejarla para el final
+└── Usar IA como acelerador, manteniendo criterio y validación humana
+```
+
+---
+
+## 📚 Formación & certificaciones
+
+| Formación | Estado / Institución |
 |---|---|
-| 🎯 Azure DevOps | Microsoft |
-| 🐍 Selenium 4 in Java | Udemy |
-| 🎬 Automation con Serenity BDD | Udemy |
-| 🧠 ISTQB Foundation Level | ISTQB |
-| 🏢 HP Quality Center | Micro Focus |
-| 🧪 Quick Test Professional | HP |
+| 🎯 **ISTQB Certified Tester Foundation Level (CTFL)** | 📖 En preparación |
+| ☁️ **Azure DevOps** | Microsoft / Formación especializada |
+| 🧪 **Selenium 4 with Java** | Udemy |
+| 🎬 **Automation with Serenity BDD** | Udemy |
+| 🏢 **HP Quality Center** | HP / Micro Focus |
+| 🧪 **QuickTest Professional** | HP |
+
+---
+
+## 📊 GitHub
+
+### 🌿 Git Workflow
+
+<div align="center">
+
+<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/ricardo-git-workflow.gif" alt="Git Workflow for QA Automation by Ricardo Torrado" width="100%"/>
+
+</div>
+
+### 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rtorrado80ing&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Ricardo Torrado GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtorrado80ing&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rtorrado80ing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtorrado80ing&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+### 🤝 Conectemos
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rtorrado80ing&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 ¿Interesado en colaborar?
-
-*"La calidad no es un acto, es un hábito."* — Aristóteles
+Me interesan proyectos y oportunidades donde la **automatización, la arquitectura de pruebas y la ingeniería de calidad** sean parte real de la estrategia de desarrollo.
 
 [![LinkedIn](https://img.shields.io/badge/Conectemos%20en-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-torrado-gomez/)
-[![Email](https://img.shields.io/badge/Escríbeme%20al-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardo.torrado@gmail.com)
-
-⭐ *¡Si te gusta mi trabajo, no olvides darle una estrella a los repos!* ⭐
-
-<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/screenplay_build.gif" alt="Automation Testing" width="100%"/>
+[![Email](https://img.shields.io/badge/Contactame-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardo.torrado@gmail.com)
 
 </div>
