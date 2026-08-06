@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/banner.png"
-     alt="QA Automation Engineering Banner"
-     width="100%"/>
+<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/banner.png" alt="QA Automation Engineering Banner" width="100%"/>
 
 # 👋 Hola, soy Ricardo Torrado
 
@@ -24,22 +22,22 @@
 
 Soy **QA Automation Engineer con más de 12 años de experiencia en aseguramiento de calidad de software**, con foco en diseño de estrategias de testing, arquitectura de automatización y construcción de soluciones mantenibles para aplicaciones Web, APIs y pruebas de rendimiento.
 
-Mi experiencia combina **automatización funcional, BDD, API Testing, Performance Testing y CI/CD**, aplicando patrones y prácticas orientadas a reducir riesgos, acelerar el feedback y aumentar la confianza durante los despliegues.
+Mi experiencia combina **automatización funcional, BDD, API Testing, Performance Testing y CI/CD**, trabajando con patrones y prácticas que buscan reducir riesgo, acelerar el feedback y dar confianza a los equipos durante los despliegues.
 
 - 🧪 Diseño y evolución de **frameworks de automatización E2E**
-- 🎭 Automatización moderna con **Playwright y Selenium**
+- 🎭 Automatización moderna con **Playwright** y **Selenium**
 - 🥒 Experiencia con **Serenity BDD, Screenplay, Cucumber y Gherkin**
 - 🔌 Validación de servicios y APIs con **REST Assured, Karate y Postman**
 - ⚡ Pruebas de rendimiento y carga con **k6 y JMeter**
 - 🔄 Integración de pruebas en **Azure DevOps y pipelines CI/CD**
-- 🤖 Explorando **IA aplicada al testing, agentes y MCP**
-- 🎯 Automatización basada en **riesgo y valor de negocio**
+- 🤖 Explorando **IA aplicada al testing, agentes y MCP** para mejorar productividad y análisis
+- 🎯 Enfoque en automatizar por **riesgo y valor de negocio**, no simplemente por cantidad de scripts
 
 ---
 
 ## 🧰 Stack principal
 
-### 🎭 Test Automation
+### Test Automation
 
 <div align="center">
 
@@ -52,7 +50,7 @@ Mi experiencia combina **automatización funcional, BDD, API Testing, Performanc
 
 </div>
 
-### 🔌 API & Performance
+### API & Performance
 
 <div align="center">
 
@@ -64,7 +62,7 @@ Mi experiencia combina **automatización funcional, BDD, API Testing, Performanc
 
 </div>
 
-### 💻 Languages, CI/CD & Tools
+### Languages, CI/CD & Tools
 
 <div align="center">
 
@@ -87,9 +85,9 @@ Mi experiencia combina **automatización funcional, BDD, API Testing, Performanc
 |---|---|---|
 | 🎭 **E2E Automation** | Frameworks escalables, mantenibles y orientados a flujos críticos | Playwright · Selenium · Serenity BDD · Screenplay |
 | 🔌 **API Testing** | Validaciones funcionales, integración y regresión de servicios | REST Assured · Karate · Postman |
-| ⚡ **Performance Testing** | Escenarios de carga, métricas, thresholds y análisis | k6 · JMeter |
+| ⚡ **Performance Testing** | Escenarios de carga, métricas, thresholds y análisis de rendimiento | k6 · JMeter |
 | 🔄 **Continuous Testing** | Ejecución automatizada y trazabilidad dentro de CI/CD | Azure DevOps · Jenkins · Git |
-| 🤖 **AI for QA** | Experimentación con IA, agentes y MCP aplicada al testing | LLMs · AI Agents · MCP |
+| 🤖 **AI for QA** | Experimentación con IA, agentes y MCP aplicada al ciclo de testing | LLMs · AI Agents · MCP |
 
 ---
 
@@ -97,9 +95,7 @@ Mi experiencia combina **automatización funcional, BDD, API Testing, Performanc
 
 <div align="center">
 
-<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/ricardo-cicd-pipeline.gif"
-     alt="CI/CD Pipeline for QA Automation by Ricardo Torrado"
-     width="100%"/>
+<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/ricardo-cicd-pipeline.gif" alt="CI/CD Pipeline for QA Automation by Ricardo Torrado" width="100%"/>
 
 </div>
 
@@ -117,3 +113,59 @@ Quality Engineering
 ├── Tratar los tests flaky como deuda técnica
 ├── Integrar calidad al pipeline, no dejarla para el final
 └── Usar IA como acelerador, manteniendo criterio y validación humana
+```
+
+---
+
+## 📚 Formación continua & certificaciones
+
+| Formación | Estado / Institución |
+|---|---|
+| 🎯 **ISTQB Certified Tester Foundation Level (CTFL)** | 📖 En preparación |
+| ☁️ **Azure DevOps & CI/CD** | Experiencia práctica / Formación continua |
+| 🧪 **Selenium 4 with Java** | Udemy |
+| 🎬 **Automation with Serenity BDD** | Udemy |
+| 🏢 **HP Quality Center** | HP / Micro Focus |
+| 🧪 **QuickTest Professional** | HP |
+
+---
+
+## 📊 GitHub
+
+### 🌿 Git Workflow
+
+<div align="center">
+
+<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/ricardo-git.gif" alt="Git Workflow for QA Automation by Ricardo Torrado" width="100%"/>
+
+</div>
+
+### 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rtorrado80ing&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="Ricardo Torrado GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtorrado80ing&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rtorrado80ing&theme=tokyonight&hide_border=true" alt="Ricardo Torrado GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Conectemos
+
+Me interesan proyectos y oportunidades donde la **automatización, la arquitectura de pruebas y la ingeniería de calidad** sean parte real de la estrategia de desarrollo.
+
+[![LinkedIn](https://img.shields.io/badge/Conectemos%20en-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-torrado-gomez/)
+[![Email](https://img.shields.io/badge/Contactame-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardo.torrado@gmail.com)
+
+</div>
