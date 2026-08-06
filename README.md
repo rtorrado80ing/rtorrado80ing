@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/image2.png" alt="Automation Testing Banner" width="100%"/>
+<img src="https://github.com/rtorrado80ing/rtorrado80ing/blob/main/banner.png" alt="Automation Testing Banner" width="100%"/>
 
 # 👋 ¡Hola! Soy Ricardo Torrado
 
